@@ -1,0 +1,12 @@
+Needed classes/libraries:
+
+    - Numpy
+    - Pandas
+    - Sklearn
+    - Tensorflow/Keras
+    - Matplotlib
+    - Python version 3.9 or newer
+
+Nice to have:
+
+    - A gpu to train the models on. You can use a cpu to do but it will take much, much longer to train them compared to a gpu. 
