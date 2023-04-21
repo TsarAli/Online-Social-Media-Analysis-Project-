@@ -22,3 +22,7 @@
  The code will also preprocess the data using one-hot encoding and has values that can be changed. The default vocab number is 100 but if you have the resources you can use as much as you want(I used 1000 vocab when I was testing this). The batch size and number of epohcs can also be changed. 
  
  When the preprocessing and training has been complete all models and ensembled to see the resulting confusion matrix.
+
+### To use this file
+
+- Ensure that the data is in the same folder as the code since the path for getting the data in the code is relative to each other(ie it looks like ./data/train).
