@@ -1,4 +1,4 @@
-## The following is my project from when I took the Online Social Media Analysis course at IIT.
+## The following is the project my group partner and I completed when we took the Online Social Media Analysis course at IIT.
 
 * The dataset that was used is uploaded along with the code that was used. 
 
