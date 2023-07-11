@@ -16,7 +16,7 @@
   
   - Simple neural network
   - A bidirectional LSTM(an RNN basically)
-  - A More complex neural network that utilizes droput and more layers than the first simple neural network
+  - A more complex neural network that utilizes droput and more layers than the first simple neural network
   - A transformer network
  
  The code will also preprocess the data using one-hot encoding and has values that can be changed. The default vocab number is 100 but if you have the resources you can use as much as you want(I used 1000 vocab when I was testing this). The batch size and number of epohcs can also be changed. 
